@@ -77,17 +77,6 @@ Users not assigned to a specific group are treated as **Customers** by default.
 
 ---
 
-## HTTP Status Codes
-
-The API adheres to RESTful standards with clear and meaningful HTTP status codes:
-- **200 - OK**: Successful GET, PUT, PATCH, or DELETE.
-- **201 - Created**: Successful POST request.
-- **400 - Bad Request**: Validation errors for POST, PUT, PATCH, or DELETE.
-- **401 - Unauthorized**: User authentication failure.
-- **403 - Forbidden**: Role-based access denied.
-- **404 - Not Found**: Resource not found.
-
----
 
 ## Additional Features
 
